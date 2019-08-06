@@ -1,0 +1,11 @@
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\bin\Debug\netcoreapp2.1\Blog.deps.json
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\bin\Debug\netcoreapp2.1\Blog.runtimeconfig.json
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\bin\Debug\netcoreapp2.1\Blog.runtimeconfig.dev.json
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\bin\Debug\netcoreapp2.1\Blog.dll
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\bin\Debug\netcoreapp2.1\Blog.pdb
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.csprojAssemblyReference.cache
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.csproj.CoreCompileInputs.cache
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.AssemblyInfoInputs.cache
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.AssemblyInfo.cs
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.dll
+C:\Summer Courser\C#\Lesson 6\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.pdb
